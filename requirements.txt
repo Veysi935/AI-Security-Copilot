@@ -1,0 +1,8 @@
+streamlit==1.29.0
+streamlit-drawable-canvas
+opencv-python
+ultralytics
+google-generativeai
+pydantic-settings
+numpy
+Pillow
